@@ -1,2 +1,4 @@
 # online-task-manager
-Hackathon project
+
+##Libraries used
+###1.React
