@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.btn{
+  border: none;
+  border-radius: 7px;
+  transition: all 100ms;
+}
+.btn:hover{
+  transform: scale(1.1);
+}
+.btn:active{
+  transform: scale(0.9);
+}
